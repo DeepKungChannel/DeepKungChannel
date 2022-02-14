@@ -28,7 +28,7 @@
 ## Connect with me :
 <p align="left">
 <a href="https://twitter.com/siravid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siravid thongsook" height="30" width="40" /></a>
-<a href="https://fb.com/สิรวิชญ์ ทองสุข" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="สิรวิชญ์ ทองสุข" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009054965929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="สิรวิชญ์ ทองสุข" height="30" width="40" /></a>
 <a href="https://instagram.com/siravich_thongsook/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siravid_thongsook" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deepkungchannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepkungchannel" height="30" width="40" /></a>
 <a href="https://discord.gg/QnyVGHStgk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QnyVGHStgk" height="30" width="40" /></a>
