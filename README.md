@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Siravid Thongsook</h1>
-<h3 align="center">A 15 years old guy interested in computer sciences</h3>
+<h3 align="center">A 17 years old guy interested in computer sciences</h3>
 <br/>
 
 
@@ -19,7 +19,6 @@
 
 ## 📊 My Github Stats
 <br/>
-<a href="#"><img alt="GitHub Pages" src="https://github-readme-stats.vercel.app/api?username=DeepKungChannel&layout=compact&show_icons=true&theme=algolia" height="200px"></a>
 <a href="#"><img alt="GitHub Pages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepKungChannel&layout=compact&show_icons=true&theme=algolia" height="200px"></a>
 <br/>
 <br/>
