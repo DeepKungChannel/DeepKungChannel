@@ -5,11 +5,7 @@
 
 <h2 >🥰 About  me</h1>
 
-- 🔭 I’m currently working on : [Smilewin Team](https://github.com/DeepKungChannel/Smilewinbot)
-
 - 🌱 I’m currently learning : **C programming language**
-
-- 👯 I’m looking to collaborate on : [Smilewinbot](https://github.com/reactxsw/Smilewinbot)
 
 - 💬 Ask me about :  **Python, Javascript, Java**
 
