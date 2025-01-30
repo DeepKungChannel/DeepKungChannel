@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Siravid Thongsook</h1>
-<h3 align="center">A 17 years old guy interested in computer sciences</h3>
 <br/>
 
 
