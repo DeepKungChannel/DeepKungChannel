@@ -10,7 +10,6 @@
 
 - 📫 How to reach me :  **ppoumppoum@gmail.com**
 
-- ⚡ Fun fact **" I coding my own discord bot in a day "**
 
 ## 📊 My Github Stats
 <br/>
